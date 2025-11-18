@@ -38,8 +38,8 @@ export default function Projects(props) {
       image: imgC,
     },
     {
-      title: "MaktabaMark (Desktop LMS)",
-      description: "Developed MaktabaMark, a comprehensive desktop-based School Library Management System.",
+      title: "NuruLib (Desktop LMS)",
+      description: "Developed NuruLib, a comprehensive desktop-based School Library Management System.",
       link: "https://youtu.be/mmA_5iPwfuc",
       image: imgD,
       isExternalLink: true,
